@@ -9,4 +9,4 @@ Proximamente se integrará webpay automatico.
 
 Cuenta administrador para observar esta parte de la pagina:
 User: testGithub
-pass: testGitHub123
+pass: testGithub123
