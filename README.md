@@ -10,3 +10,5 @@ Proximamente se integrará webpay automatico.
 Cuenta administrador para observar esta parte de la pagina:
 User: testGithub
 pass: testGithub123
+
+Acceso en parte inferior, (footer)
