@@ -1,6 +1,6 @@
 # WhatTheFloral
 
-Link: RuletaCulia.club
+Link: MartinSeguel.site
 
 Source code de pagina web eCommerce con pagina de administrador para agregar, eliminar y editar productos, visualizar y monitorizar ventas.
 Por ahora, con conexion automaitazada a link webpay.
